@@ -7,3 +7,5 @@ The AIHazardsFinder software is easy to operate without programming foundation. 
 3)	Click the "AI Classification" button, and the software starts to classify unknown MS/MS spectra. When progress bar reaches 100%, the classification task is completed, and classification results are exported to the default folder.
 4)	Molecular formula calculation and filtration. Click the "Formula Filtration" button, the software starts to perform molecular formula calculation and filtration. The software starts to calculate formulas of suspect compounds, which were screened out in step 3. If formula cannot be calculated, the compound is not retained.
 In addition, we can also switch the extracted ion chromatograms, MS/MS spectra displayed in the visualization window on the right by clicking “Last”, “Next”, or right-clicking the left table and selecting the “Detailed information” prompt box.
+
+The trained model cannot be uploaded to Github due to its large size. Please feel free to contact me via email. You can also train your own model through the provided code. Email: chentiantian@dicp.ac.cn. I will definitely reply to you within 24 hours.
